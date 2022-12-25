@@ -1,8 +1,8 @@
-import Quiz from "./Components/Quiz";
+
 
 const App = () => {
   return (
-    <Quiz />
+   <h1>Ready</h1>
   );
 };
 

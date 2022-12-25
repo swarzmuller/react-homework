@@ -6,7 +6,9 @@
 .pnp.js
 
 # testing
-/coverage
+
+# own components
+/src/components/Quiz
 
 # production
 /build
