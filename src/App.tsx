@@ -1,7 +1,9 @@
+import Quiz from "./Components/Quiz";
+
 const App = () => {
   return (
-    <h1>Ready... for Test</h1>
+    <Quiz />
   );
-}
+};
 
 export default App;
